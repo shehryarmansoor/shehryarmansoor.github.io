@@ -10,13 +10,11 @@
   display: inline;
 }
   .nav { 
-      background-image:url('http://upload.wikimedia.org/wikipedia/commons/f/f1/Shades_of_light_blue.png')
-      
+      background-image: blue 
 }
 
 .jumbotron {
-  background-image:url('http://www.engelbrechts.dk/sites/default/files/imagecache/800px/ocean%20blue%20color_1.jpg');
-  height: 500px;
+  background-image: blue 
 }
 
 .jumbotron .container {
@@ -57,7 +55,7 @@
 }
 
 .learn-more{
-    background-image:url('http://upload.wikimedia.org/wikipedia/commons/f/f1/Shades_of_light_blue.png')
+    background: blue;
 }
 
 .neighborhood-guide p {
