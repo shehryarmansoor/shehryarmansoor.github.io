@@ -16,8 +16,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://www.engelbrechts.dk/sites/default/files/imagecache/800px/ocean%20blue%20color_1.jpg');
-  height: 500px;
+  background: red;
 }
 
 .jumbotron .container {
@@ -53,12 +52,12 @@
 
 
 .neighborhood-guide {
-  background-image:url('http://hdwallsource.com/img/2014/5/light-blue-wallpaper-7851-8144-hd-wallpapers.jpg');
+  background:;
   height: 500px;
 }
 
 .learn-more{
-    background-image:url('http://upload.wikimedia.org/wikipedia/commons/f/f1/Shades_of_light_blue.png')
+    background: orange;
 }
 
 .neighborhood-guide p {
